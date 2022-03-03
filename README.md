@@ -15,4 +15,4 @@ R = Rate of Interest per year as a percent; R = r * 100
 t = Time Period involved in months or years
 From the base formula, A = P(1 + rt) derived from A = P + I and since I = Prt then A = P + I becomes A = P + Prt which can be rewritten as A = P(1 + rt)
 
-Note that rate r and time t should be in the same time units such as months or years. Time conversions that are based on day count of 365 days/year have 30.4167 days/month and 91.2501 days/quarter. 360 days/year have 30 days/month and 90 days/quarter.
+Note that rate r and time t should be in the same time units such as months or years. Time conversions that are based on day count of 365 days/year have 30.4167 days/month and 91.2501 days/quarter. 360 days/year have 30 days/month and 90 days/quarter
